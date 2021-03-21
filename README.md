@@ -19,19 +19,31 @@ This is a backend application that allows an E-commerce company can use `Express
 ## Walkthrough Video
 [WATCH WALKTHROUGH VIDEO](https://drive.google.com/file/d/1wTbmT4O-YWgn0nQ9rlqAtOuHBsV4N5jQ/view?usp=sharing)
 
+-----------------------------------
+
 ## Technologies Used
-Express.js, Sequelize, Node.js, JavaScript, MySQL2, SQL, dotenv, nodemon
+- Express.js 
+- Sequelize 
+- Node.js
+- JavaScript
+- MySQL2
+- SQL
+- dotenv
+- nodemon
+
+----------------------------------
 
 ## Installation
 Clone the application. In the root folder, create a .env file and store your own login information to the database in key:value pairs. In your database client create a database. Run `npm install` to install all necessary dependencies. Run `npm run seed` to seed the database. Run `npm start` to start the server(notice the console log will show the port the server is listening on). I recommend using Postman to interact with the API. 
 
+-------------------------------
+
 ## License
 NOTICE: This application is covered by GNU General Public License v3.0.
 
-## How to Contribute
-If you would like to contribute to this project, you can .
+--------------------------------------------------
 
-## Questions
+## Contact Info
 If you have any questions, I can be reached at [mathiasrok@gmail.com](mathiasrok@gmail.com)
 
 Or find me on [GitHub](MRomano84)
