@@ -17,7 +17,7 @@ This is a backend application that allows an E-commerce company can use `Express
 ----------------------------------
 
 ## Walkthrough Video
-![WATCH WALKTHROUGH VIDEO]()
+[WATCH WALKTHROUGH VIDEO](https://github.com/MRomano84/E-commerce-back-end/blob/main/assets/e-comm-backend-demo.avi)
 
 ## Technologies Used
 Express.js, Sequelize, Node.js, JavaScript, MySQL2, SQL, dotenv, nodemon
